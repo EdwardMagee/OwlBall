@@ -1,0 +1,7 @@
+id: Owl file: ../Texture/Owl.jpg
+id: Metal file: ../Texture/Metal.jpg
+id: Wood file: ../Texture/Wood.jpg
+id: Sky file: ../Texture/Sky.jpg
+id: Cloud file: ../Texture/Cloud.png
+id: OwlTwo file: ../Texture/OwlTwo.png
+id: Space file: ../Texture/Space.jpg

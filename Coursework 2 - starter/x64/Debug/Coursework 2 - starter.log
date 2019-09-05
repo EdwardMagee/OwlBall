@@ -1,0 +1,19 @@
+﻿  UserInterface.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\userinterface.cpp(1): fatal error C1083: Cannot open include file: 'UserInterface.h': No such file or directory
+  TextureManager.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\texturemanager.cpp(1): fatal error C1083: Cannot open include file: 'TextureManager.h': No such file or directory
+  main.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\main.cpp(2): fatal error C1083: Cannot open include file: 'Box2D/Box2D.h': No such file or directory
+  listener.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\listener.cpp(1): fatal error C1083: Cannot open include file: 'listener.h': No such file or directory
+  GameSensor.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\gamesensor.cpp(1): fatal error C1083: Cannot open include file: 'GameSensor.h': No such file or directory
+  Game.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\game.cpp(1): fatal error C1083: Cannot open include file: 'Game.h': No such file or directory
+  FileReader.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\filereader.cpp(1): fatal error C1083: Cannot open include file: 'FileReader.h': No such file or directory
+  Block.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\block.cpp(1): fatal error C1083: Cannot open include file: 'Block.h': No such file or directory
+  Ball.cpp
+e:\work\assignment work\box2dpuzzlegame\owlbox assigment 2 box2d\box2d owlpuzzlegame\assigment 2 box2d game\coursework 2 - starter\src\ball.cpp(1): fatal error C1083: Cannot open include file: 'Ball.h': No such file or directory
+  Generating Code...
